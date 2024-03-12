@@ -13,10 +13,10 @@ This project is a digit recognizer implemented using a neural network built from
 
 ## Example Output
 
-https://github.com/ThisIsNotJustin/MNIST_DigitRecognizer/blob/main/output/1.png
-https://github.com/ThisIsNotJustin/MNIST_DigitRecognizer/blob/main/output/2.png
-https://github.com/ThisIsNotJustin/MNIST_DigitRecognizer/blob/main/output/3.png
-https://github.com/ThisIsNotJustin/MNIST_DigitRecognizer/blob/main/output/4.png
-https://github.com/ThisIsNotJustin/MNIST_DigitRecognizer/blob/main/output/7.png
-https://github.com/ThisIsNotJustin/MNIST_DigitRecognizer/blob/main/output/8.png
-https://github.com/ThisIsNotJustin/MNIST_DigitRecognizer/blob/main/output/9.png
+![Example Image](https://github.com/ThisIsNotJustin/MNIST_DigitRecognizer/blob/main/output/1.png)
+![Example Image](https://github.com/ThisIsNotJustin/MNIST_DigitRecognizer/blob/main/output/2.png)
+![Example Image](https://github.com/ThisIsNotJustin/MNIST_DigitRecognizer/blob/main/output/3.png)
+![Example Image](https://github.com/ThisIsNotJustin/MNIST_DigitRecognizer/blob/main/output/4.png)
+![Example Image](https://github.com/ThisIsNotJustin/MNIST_DigitRecognizer/blob/main/output/7.png)
+![Example Image](https://github.com/ThisIsNotJustin/MNIST_DigitRecognizer/blob/main/output/8.png)
+![Example Image](https://github.com/ThisIsNotJustin/MNIST_DigitRecognizer/blob/main/output/9.png)
