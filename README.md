@@ -10,3 +10,13 @@ This project is a digit recognizer implemented using a neural network built from
 - pandas
 - matplotlib
 - [MNIST Dataset](https://www.kaggle.com/datasets/hojjatk/mnist-dataset)
+
+## Example Output
+
+https://github.com/ThisIsNotJustin/MNIST_DigitRecognizer/blob/main/output/1.png
+https://github.com/ThisIsNotJustin/MNIST_DigitRecognizer/blob/main/output/2.png
+https://github.com/ThisIsNotJustin/MNIST_DigitRecognizer/blob/main/output/3.png
+https://github.com/ThisIsNotJustin/MNIST_DigitRecognizer/blob/main/output/4.png
+https://github.com/ThisIsNotJustin/MNIST_DigitRecognizer/blob/main/output/7.png
+https://github.com/ThisIsNotJustin/MNIST_DigitRecognizer/blob/main/output/8.png
+https://github.com/ThisIsNotJustin/MNIST_DigitRecognizer/blob/main/output/9.png
